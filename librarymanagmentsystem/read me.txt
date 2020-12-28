@@ -1,4 +1,4 @@
-Group 7
+Group 07
 
 Welcome To
 Library Management System
@@ -7,13 +7,13 @@ Library Management System
 
 For User
 
-Open Your browser put inside browser “http://localhost/library”
-Login Details for user: test@gmail.com/Test@123
+Open Your browser put inside browser â€œhttp://localhost/libraryâ€
+Login Details for user:Â test@gmail.com/Test@123
 
 For Admin Panel
 
-Open Your browser put inside browser “http://localhost/library/admin”
-Login Details for admin : admin/Test@123
+Open Your browser put inside browser â€œhttp://localhost/library/adminâ€
+Login Details for admin :Â admin/Test@123
 
 
 
