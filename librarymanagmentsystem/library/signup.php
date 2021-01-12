@@ -122,7 +122,7 @@ error:function (){}
 
 <div class="form-group">
 <label>Mobile Number :</label>
-<input class="form-control" type="text" name="mobileno" maxlength="10" autocomplete="off" required />
+<input class="form-control" type="text" name="mobileno" maxlength="11" autocomplete="off" required />
 </div>
                                         
 <div class="form-group">
